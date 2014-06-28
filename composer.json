@@ -3,7 +3,8 @@
     "type": "library",
     "description": "contain http codes and methods",
     "keywords": ["http", "codes", "methods"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/madmis/HttpLib",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
