@@ -1,7 +1,7 @@
 HttpLib - Library contain http codes and methods
-==============================
+========================
 
-Used to contain all required dat ain one place
+Used to contain all required data in one place
 
 Usage
 -----
