@@ -159,7 +159,3 @@ final class Http
         return self::$messages[$code];
     }
 }
-
-?>
-
-} 
